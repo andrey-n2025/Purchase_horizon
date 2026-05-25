@@ -34,6 +34,7 @@ purchase_horizon/
 ├── results/
 ├── README.md
 └── requirements.txt
+```
 
 ## Как запустить проект
 ### Клонирование репозитория
