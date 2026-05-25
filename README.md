@@ -26,7 +26,7 @@
 
 ## Структура проекта
 
-
+```bash
 purchase_horizon/
 ├── purchase_horizon.ipynb
 ├── data/
