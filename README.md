@@ -38,8 +38,8 @@ purchase_horizon/
 
 ## Как запустить проект
 ### Клонирование репозитория
-git clone <ваш_репозиторий>
-cd purchase_horizon
+1. git clone <ваш_репозиторий>
+2. cd purchase_horizon
 
 ### Установка зависимостей
 pip install -r requirements.txt
