@@ -59,10 +59,10 @@ pip install -r requirements.txt
 Лучшая модель: Logistic Regression + SMOTE
 Финальные метрики на тестовой выборке:
 
-ROC-AUC: 0.748
-PR-AUC: 0.0618
-Recall: 0.219 (при оптимальном пороге)
-Precision: 0.088
+- PR-AUC: 0.0618
+- Recall: 0.219 (при оптимальном пороге)
+- Precision: 0.088
+- ROC-AUC: 0.748
 
 **Ключевые признаки:**
 
